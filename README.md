@@ -1,4 +1,5 @@
 # Kodluyoruz Ilk Repo
+![Proje resmi](https://github.com/cihannk/kodluyoruzilkrepo/blob/main/md.png)
 
 Bu repo [Kodluyoruz]() Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html dosyası barındırıyor.
 ## Installation
